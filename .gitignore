@@ -1,0 +1,7 @@
+data/
+venv1/
+*.pth
+__pycache__/
+.ipynb_checkpoints/
+*.zip
+*.egg-info/
