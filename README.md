@@ -1,4 +1,4 @@
-# Automated Knee Osteoarthritis Grading from X-rays
+# Automated Knee Osteoarthritis Grading from X-rays images
 
 End-to-end deep learning pipeline to automatically classify knee osteoarthritis severity using the Kellgren-Lawrence (KL) grading system (grades 0–4) from radiographic images.
 
