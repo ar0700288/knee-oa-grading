@@ -92,4 +92,4 @@ PyTorch · ResNet-50 · GradCAM · Scikit-learn · Python 3.13
 
 ## Relevance
 
-Directly replicates the approach of Pi et al. (Scientific Reports, 2023) who used ensemble deep learning + GradCAM on 8,260 knee X-rays for KL grading. Motivated by AI applications in clinical rheumatology imaging.
+inspired by the approach of Pi et al. (Scientific Reports, 2023) who used ensemble deep learning + GradCAM on 8,260 knee X-rays for KL grading. Motivated by AI applications in clinical rheumatology imaging.
